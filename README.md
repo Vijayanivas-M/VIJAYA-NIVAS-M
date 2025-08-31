@@ -1,2 +1,2 @@
 # VIJAYA-NIVAS-M
-Hello World, this is my GitHub profile
+Hello World 👋 , this is my GitHub profile
